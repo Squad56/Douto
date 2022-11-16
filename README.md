@@ -11,7 +11,7 @@
   <a href ="#dart-proposta">Proposta</a>  •
   <a href ="#hourglass_flowing_sand-planejamento-de-entregas">Planejamento</a>  •
   <a href ="#calendar-os-sprints">Sprints</a>  •
-  <a href ="#calendar-as-versões">Versões do site</a>  •
+  <a href ="#camera_flash-as-versões">Versões do site</a>  •
   <a href ="#computer-tecnologias-utilizadas">Tecnologias</a>  •
   <a href ="#bulb-metodologia-utilizada">Metodologia</a>  •
   <a href ="#bar_chart-backlog-do-projeto">Backlog</a>  •
@@ -67,7 +67,7 @@ Nota 1:  Devido a hospedagem ser viabilizada de forma gratuita, o tempo de requi
       
 <br> 
 
-## :calendar: As Versões
+## :camera_flash: As Versões
 
 ☑️ SPRINT 1 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_01)): Concluído :heavy_check_mark:
 
