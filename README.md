@@ -26,9 +26,13 @@
 
 * A ideia para a plataforma surgiu a partir de um problema: a baixa proficiência em leitura (desafio 5). Uma das formas encontradas para intervir, e ajudar no desenvolvimento de crianças mais profecientes é melhorar a leitura através de textos focados em gêneros literários
 fáceis e atrativos.
+</p>
+<br>
 
 ## :dart: Proposta
 **Desenvolver uma plataforma que desenvolva as crianças na leitura através de textos alinhados com os usados no Programa Internacional de Avaliação de Estudantes (Pisa).**
+</p>
+<br>
 
 ## :camera_flash: Apresentação Final do Projeto
 
@@ -41,9 +45,9 @@ fáceis e atrativos.
 >  [http://Douto](https://meu site.herokuapp.com/)
       
 Nota 1:  Devido a hospedagem ser viabilizada de forma gratuita, o tempo de requisição de algumas funcionalidades podem ter maior tempo de resposta, todavia as principais funcionalidades, estão disponíveis para verificação.
-  </p>
-  <br>
-  
+</p>
+<br>
+
 ## :hourglass_flowing_sand: Planejamento de Entregas
       
 - [x] [SPRINT 1] - 13/06/2022 a 18/06/2022
