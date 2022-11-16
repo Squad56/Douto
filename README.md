@@ -11,6 +11,7 @@
   <a href ="#dart-proposta">Proposta</a>  •
   <a href ="#hourglass_flowing_sand-planejamento-de-entregas">Planejamento</a>  •
   <a href ="#calendar-as-sprints">Sprints</a>  •
+  <a href ="#calendar-as-versoes">Versões do site</a>  •
   <a href ="#computer-tecnologias-utilizadas">Tecnologias</a>  •
   <a href ="#bulb-metodologia-utilizada">Metodologia</a>  •
   <a href ="#bar_chart-backlog-do-projeto">Backlog</a>  •
@@ -55,6 +56,7 @@ Nota 1:  Devido a hospedagem ser viabilizada de forma gratuita, o tempo de requi
 - [x] [SPRINT 3] - 04/10/2022 a 15/10/2022  
   </p>
   <br>
+
 ## :calendar: As Sprints
 
 ☑️ SPRINT 1 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_01)): Concluído :heavy_check_mark:
@@ -64,6 +66,22 @@ Nota 1:  Devido a hospedagem ser viabilizada de forma gratuita, o tempo de requi
 ☑️ SPRINT 3 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_03)): Concluído :heavy_check_mark:
       
 <br> 
+
+## :calendar: As Versoes
+
+☑️ SPRINT 1 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_01)): Concluído :heavy_check_mark:
+
+☑️ SPRINT 2 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_02)): Concluído :heavy_check_mark:
+
+☑️ SPRINT 3 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_03)): Concluído :heavy_check_mark:
+      
+<br> 
+
+
+
+
+
+
       
 ## :computer: Tecnologias Utilizadas
 
