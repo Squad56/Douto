@@ -47,7 +47,8 @@ Nota 1:  Devido a hospedagem ser viabilizada de forma gratuita, o tempo de requi
 - [x] [SPRINT 1] - 13/06/2022 a 18/06/2022
 - [x] [SPRINT 2] - 23/07/2022 a 03/10/2022
 - [x] [SPRINT 3] - 04/10/2022 a 15/10/2022  
-  
+  </p>
+  <br>
 ## :calendar: As Sprints
 
 ☑️ SPRINT 1 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_01)): Concluído :heavy_check_mark:
