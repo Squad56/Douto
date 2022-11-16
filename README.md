@@ -69,20 +69,12 @@ Nota 1:  Devido a hospedagem ser viabilizada de forma gratuita, o tempo de requi
 
 ## :camera_flash: As Versões
 
-☑️ SPRINT 1 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_01)): Concluído :heavy_check_mark:
+☑️ 1 ENTRGA ([Link da Pasta](https://squad562.github.io/siteprimeiraentrega/)): Concluído :heavy_check_mark:
 
-☑️ SPRINT 2 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_02)): Concluído :heavy_check_mark:
+☑️ SPRINT 2 ([Link da Pasta](https://squad561.github.io/sitesegundaentrega/)): Concluído :heavy_check_mark:
 
-☑️ SPRINT 3 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_03)): Concluído :heavy_check_mark:
-      
 <br> 
 
-
-
-
-
-
-      
 ## :computer: Tecnologias Utilizadas
 
 <p align="center">
