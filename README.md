@@ -69,9 +69,9 @@ Nota 1:  Devido a hospedagem ser viabilizada de forma gratuita, o tempo de requi
 
 ## :camera_flash: As Versões
 
-☑️ 1 ENTRGA ([Link da Pasta](https://squad562.github.io/siteprimeiraentrega/)): Concluído :heavy_check_mark:
+☑️ 1 ENTRGA ([(https://squad562.github.io/siteprimeiraentrega/)](https://squad562.github.io/siteprimeiraentrega/)):heavy_check_mark:
 
-☑️ SPRINT 2 ([Link da Pasta](https://squad561.github.io/sitesegundaentrega/)): Concluído :heavy_check_mark:
+☑️ 2 ENTRGA ([(https://squad562.github.io/siteprimeiraentrega/)](https://squad561.github.io/sitesegundaentrega/)):heavy_check_mark:
 
 <br> 
 
