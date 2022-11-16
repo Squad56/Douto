@@ -63,7 +63,7 @@ Nota 1:  Devido a hospedagem ser viabilizada de forma gratuita, o tempo de requi
 <p align="center">
       <img src="/Imagens_Geral/tech.JPG" >      
 <p align="center">
-
+</p>
 <br>
 
 * **Banco de Dados:** SQL
