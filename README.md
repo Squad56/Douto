@@ -64,6 +64,8 @@ Nota 1:  Devido a hospedagem ser viabilizada de forma gratuita, o tempo de requi
       <img src="/Imagens_Geral/tech.JPG" >      
 <p align="center">
 
+<br>
+
 * **Banco de Dados:** SQL
 * **Back-end:** Java, Tunderclient, Node, Apache TomCat                   
 * **Front-end:** HTML, CSS, Bootstrap, ReactJS e JavaScript              
@@ -71,7 +73,6 @@ Nota 1:  Devido a hospedagem ser viabilizada de forma gratuita, o tempo de requi
 * **Design:** Illustrator, Photoshop, Corel Draw
 * **Planejamento:** Planner, Project Libre, PowerPlataform
 * **Comunicação:** Discord, Whatsapp, Teams
-      
 
 <br>
 
