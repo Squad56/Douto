@@ -71,7 +71,7 @@ Nota 1:  Devido a hospedagem ser viabilizada de forma gratuita, o tempo de requi
 
 ☑️ 1 ENTRGA: [https://squad562.github.io/siteprimeiraentrega/](https://squad562.github.io/siteprimeiraentrega/) :heavy_check_mark:
 
-☑️ 2 ENTRGA: [https://squad562.github.io/siteprimeiraentrega/](https://squad561.github.io/sitesegundaentrega/)  :heavy_check_mark:
+☑️ 2 ENTRGA: [https://squad561.github.io/sitesegundaentrega/](https://squad561.github.io/sitesegundaentrega/)  :heavy_check_mark:
 
 <br> 
 
