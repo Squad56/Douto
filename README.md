@@ -10,8 +10,8 @@
   <a href ="#rocket-o-projeto">Projeto</a>  •
   <a href ="#dart-proposta">Proposta</a>  •
   <a href ="#hourglass_flowing_sand-planejamento-de-entregas">Planejamento</a>  •
-  <a href ="#calendar-as-sprints">Sprints</a>  •
-  <a href ="#calendar-as-versoes">Versões do site</a>  •
+  <a href ="#calendar-os-sprints">Sprints</a>  •
+  <a href ="#calendar-as-versões">Versões do site</a>  •
   <a href ="#computer-tecnologias-utilizadas">Tecnologias</a>  •
   <a href ="#bulb-metodologia-utilizada">Metodologia</a>  •
   <a href ="#bar_chart-backlog-do-projeto">Backlog</a>  •
