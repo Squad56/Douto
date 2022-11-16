@@ -44,7 +44,7 @@ Nota 1:  Devido a hospedagem ser viabilizada de forma gratuita, o tempo de requi
 
 ## :hourglass_flowing_sand: Planejamento de Entregas
       
-- [x] [SPRINT 1]() - 13/06/2022 a 18/06/2022
+- [x] [SPRINT 1] - 13/06/2022 a 18/06/2022
 - [x] [SPRINT 2](https://#) - 23/07/2022 a 03/10/2022
 - [x] [SPRINT 3](https://#) - 04/10/2022 a 15/10/2022  
   
@@ -52,9 +52,9 @@ Nota 1:  Devido a hospedagem ser viabilizada de forma gratuita, o tempo de requi
 
 ☑️ SPRINT 1 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_01)): Concluído :heavy_check_mark:
 
-☑️ SPRINT 2 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_02): Concluído :heavy_check_mark:
+☑️ SPRINT 2 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_02)): Concluído :heavy_check_mark:
 
-☑️ SPRINT 3 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_03): Concluído :heavy_check_mark:
+☑️ SPRINT 3 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_03)): Concluído :heavy_check_mark:
       
 <br> 
       
