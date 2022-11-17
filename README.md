@@ -45,10 +45,6 @@ fáceis e atrativos.
 **:link: Clique no link abaixo para visualizar o site hospedado:**
 >  [http://Douto](https://meu site.herokuapp.com/)
       
-Nota 1:  Devido a hospedagem ser viabilizada de forma gratuita, o tempo de requisição de algumas funcionalidades podem ter maior tempo de resposta, todavia as principais funcionalidades, estão disponíveis para verificação.
-</p>
-<br>
-
 ## :hourglass_flowing_sand: Planejamento de Entregas
       
 - [x] [SPRINT 1] - 13/06/2022 a 18/06/2022
