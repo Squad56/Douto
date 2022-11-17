@@ -15,7 +15,7 @@
   <a href ="#computer-tecnologias-utilizadas">Tecnologias</a>  •
   <a href ="#bulb-metodologia-utilizada">Metodologia</a>  •
   <a href ="#bar_chart-backlog-do-projeto">Backlog</a>  •
-  <a href ="#mortar_board-equipe">Equipe</a>
+  <a href ="#mortar_board-colaboradores">Equipe</a>
 </p>
 
 <h1 align="center">
@@ -86,7 +86,7 @@ Nota 1:  Devido a hospedagem ser viabilizada de forma gratuita, o tempo de requi
 * **Banco de Dados:** SQL
 * **Back-end:** Java, Thunder Client, Node.js, Apache TomCat                   
 * **Front-end:** HTML, CSS, Bootstrap, React.js e JavaScript              
-* **Ferramentas:** Visual Studio Code, SpringToolSuite4, MySQL, BrModelo e Eclipse
+* **Ferramentas:** Visual Studio Code, SpringToolSuite4, MySQL e Eclipse
 * **Design:** Illustrator, Photoshop, Corel Draw
 * **Planejamento:** Planner, Project Libre, PowerPlataform
 * **Comunicação:** Discord, Whatsapp, Teams
@@ -110,7 +110,7 @@ Nota 1:  Devido a hospedagem ser viabilizada de forma gratuita, o tempo de requi
       
 <br>  
       
-## :mortar_board: Equipe 
+## :mortar_board: Colaboradores 
 
 |Nome|Função|Linkedin|GitHub|Avatar|
 | -------- |-------- |-------- |-------- |-------- |
