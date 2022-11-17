@@ -84,8 +84,8 @@ Nota 1:  Devido a hospedagem ser viabilizada de forma gratuita, o tempo de requi
 <br>
 
 * **Banco de Dados:** SQL
-* **Back-end:** Java, Tunderclient, Node, Apache TomCat                   
-* **Front-end:** HTML, CSS, Bootstrap, ReactJS e JavaScript              
+* **Back-end:** Java, Thunder Client, Node.js, Apache TomCat                   
+* **Front-end:** HTML, CSS, Bootstrap, React.js e JavaScript              
 * **Ferramentas:** Visual Studio Code, SpringToolSuite4, MySQL, BrModelo e Eclipse
 * **Design:** Illustrator, Photoshop, Corel Draw
 * **Planejamento:** Planner, Project Libre, PowerPlataform
