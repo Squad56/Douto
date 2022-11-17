@@ -37,13 +37,8 @@ fáceis e atrativos.
 
 ## :camera_flash: Apresentação Final do Projeto
 
-**Clique no link abaixo para visualizar o vídeo final do projeto:**  
-> :movie_camera: [Vídeo Final](https://www.youtube.com/  )
-
-<br>
-      
 **:link: Clique no link abaixo para visualizar o site hospedado:**
->  [http://Douto](https://meu site.herokuapp.com/)
+>  [http://Douto](https://sitesegundaentrega.vercel.app/)
       
 ## :hourglass_flowing_sand: Planejamento de Entregas
       
