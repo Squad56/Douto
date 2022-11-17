@@ -15,7 +15,7 @@
   <a href ="#computer-tecnologias-utilizadas">Tecnologias</a>  •
   <a href ="#bulb-metodologia-utilizada">Metodologia</a>  •
   <a href ="#bar_chart-backlog-do-projeto">Backlog</a>  •
-  <a href ="#mortar_board-colaboradores">Equipe</a>
+  <a href ="#mortar_board-colaboradores">Colaboradores</a>
 </p>
 
 <h1 align="center">
