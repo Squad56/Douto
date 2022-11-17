@@ -114,7 +114,7 @@ Nota 1:  Devido a hospedagem ser viabilizada de forma gratuita, o tempo de requi
 
 |Nome|Função|Linkedin|GitHub|Avatar|
 | -------- |-------- |-------- |-------- |-------- |
-|**Danny Berrios**|Scrum Master Desenvolvedor|[@LinkedIn](https://www.linkedin.com/in/danny-berrios/)|[@GitHub](https://github.com/dennyberrios)|<img src = "/Imagens_Geral/danny.jpg" width="50" height="50"/>|
+|**Danny Berrios**|Líder Front-end|[@LinkedIn](https://www.linkedin.com/in/danny-berrios/)|[@GitHub](https://github.com/dennyberrios)|<img src = "/Imagens_Geral/danny.jpg" width="50" height="50"/>|
 |**Ewerton Rubi**|Desenvolvedor| [@LinkedIn](http://linkedin.com/in/ewerton-rubi/)|[@GitHub](https://github.com/EwertonRAMonteiro)|<img src = "/Imagens_Geral/rubi.png" width="50" height="50"/>|
 |**Eduardo Junior**|Desenvolvedor| [@LinkedIn](https://www.linkedin.com/in/eduardo-junior-71049236/)|[@GitHub](https://github.com/eduardojr17)|<img src = "/Imagens_Geral/eduardo.jpeg" width="50" height="50"/>|
 |**Jhenyffer Silva**|Desenvolvedora| [@LinkedIn](http://linkedin.com/in/jhenyffer-silva-574297182)|[@GitHub](https://github.com/Jhenyffer368Silva)|<img src = "/Imagens_Geral/jhenyffer.jpeg" width="50" height="50"/>|
