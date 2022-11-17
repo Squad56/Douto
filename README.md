@@ -31,7 +31,7 @@ fáceis e atrativos.
 <br>
 
 ## :dart: Proposta
-**Desenvolver uma plataforma que desenvolva as crianças na leitura através de textos alinhados com os usados no Programa Internacional de Avaliação de Estudantes (Pisa).**
+**Desenvolver uma plataforma que desenvolva as crianças na leitura através de textos alinhados com os usados no Programa Internacional de Avaliação de Estudantes (Pisa) e o BNCC.**
 </p>
 <br>
 
