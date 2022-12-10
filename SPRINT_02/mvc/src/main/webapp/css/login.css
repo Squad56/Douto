@@ -19,7 +19,6 @@ html, body{
 #navega{
     display:flex;
     justify-content: space-around;
-
     background-color: #49007E;
 }
 #topo{
@@ -33,11 +32,11 @@ li{
 }
 li > a{
     font-family: 'FranklinGothic';
-    font-size:1.5rem;
+    font-size:1.3rem;
 }
 li > a:hover{
     transition: 0.1s;
-    border-bottom: solid 2px white;
+    border-bottom: 2px solid white;
 }
 #btn-login{
     display: flex;
